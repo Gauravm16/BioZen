@@ -1,34 +1,45 @@
-# biofuels-supplychain
+# 🌱 BioZen
 
-> 1️⃣ UI - Login Module  https://whimsical.com/login-module-GZhHyDrRV82kCJnPYty1hs
- 
-> 2️⃣ Code - Repo  https://github.com/onkardighe/biofuels-supplychain/settings/access
+**BioZen** is a blockchain-based biofuel supply chain management application developed using **Dart and Android Studio**. The application uses the **Ethereum blockchain** to record and manage transactions, providing a more transparent and secure approach to managing activities across the biofuel supply chain.
 
-> 3️⃣ Review https://docs.google.com/document/d/1XyWCYfYuFLebjN9_SPCMhlCnZV9jXS4g/edit# 
+## 🚀 Features
 
-> 4️⃣ PPT https://docs.google.com/presentation/d/1ZDAhdRKlKnFRCsQ2qQdequ0XimmxDK59/edit?usp=sharing&ouid=106896568852697073175&rtpof=true&sd=true
+- 🔗 **Ethereum Blockchain Integration** — Records supply-chain transactions on the blockchain.
+- ⛓️ **Transaction Management** — Enables secure recording and tracking of transactions.
+- 🌱 **Biofuel Supply Chain Management** — Helps manage activities throughout the biofuel supply chain.
+- 📊 **Dashboard** — Provides an overview of relevant supply-chain information.
+- 📱 **Android Application** — Designed for mobile access and ease of use.
+- 🔐 **User Authentication** — Secure login and access to the application.
 
-> 5️⃣ Formats https://drive.google.com/drive/folders/1IiAx7gvfDD9POV21mNqLsq9e_nUSBUZF?usp=sharing
+## 🛠️ Technologies Used
 
-<br><br>
+- **Dart**
+- **Android Studio**
+- **Ethereum Blockchain**
+- **Solidity**
+- **Smart Contracts**
+- **Android SDK**
 
+## 📱 App Showcase
 
+![BioZen App Showcase](Screenshots/showcase.png)
 
-* ## Login Module
-<div align="center">
+## ⛓️ Blockchain
 
+BioZen uses the **Ethereum blockchain** to support transaction management within the biofuel supply chain. Blockchain technology provides a transparent and tamper-resistant record of transactions between participants.
 
+The application interacts with blockchain-based smart contracts to facilitate the recording and management of supply-chain transactions.
 
-![Screen Recording 2023-02-02 at 11 00 01 AM](https://user-images.githubusercontent.com/72162692/216239987-0deee07c-2781-432a-b541-cc3d03a17c06.gif)
-![Screen Recording 2023-02-02 at 10 46 46 AM](https://user-images.githubusercontent.com/72162692/216238691-656b15d9-cc3a-4f01-a4f6-563102d19f10.gif)
+## 🎯 Objective
 
-![Screen Recording 2023-02-02 at 10 46 46 AM 2](https://user-images.githubusercontent.com/72162692/216239002-7deb712b-d230-4a05-8460-b9efde144849.gif)
-![Screen Recording 2023-02-02 at 10 46 46 AM 3](https://user-images.githubusercontent.com/72162692/216239167-a60c876c-750b-4be7-b0da-9c364f80eb5f.gif)
+The primary objective of BioZen is to provide a digital platform for managing the biofuel supply chain while using blockchain technology to improve **transparency, security, and traceability**.
 
-</div>
+## ⚙️ Getting Started
 
+### Prerequisites
 
-
-
-
-
+- Android Studio
+- Android SDK
+- Dart / Flutter environment, as required by the project
+- Ethereum-compatible blockchain environment
+- Required smart contracts and dependencies
